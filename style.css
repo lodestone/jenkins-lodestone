@@ -14,13 +14,13 @@ body {
   /* background-image: url(snowrabbit.png) !important; */
 }
 
-#toppanel {
-  background: white;
+#top-panel {
+  background: white !important;
 }
 
 #header {
   border-bottom: 3px solid #343434;
-  position: absolute;
+  position: fixed;
 }
 
 .healthReportDetails {
