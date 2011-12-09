@@ -1,6 +1,7 @@
 // Not sure if this web font script works
+<script type="text/javascript">
   WebFontConfig = {
-    google: { families: [ 'Electrolize::latin' ] }
+    google: { families: [ 'Baumans::latin' ] }
   };
   (function() {
     var wf = document.createElement('script');
@@ -10,7 +11,7 @@
     wf.async = 'true';
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(wf, s);
-  })();
+  })(); </script>
 
 j = jQuery.noConflict();
 
