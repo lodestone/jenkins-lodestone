@@ -1,3 +1,9 @@
 * { 
   font-family: Tahoma, Sans;
 }
+
+body.yui-skin-sam {
+  width: 980px;
+  margin: 0 auto;
+}
+
