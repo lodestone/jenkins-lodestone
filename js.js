@@ -1,3 +1,4 @@
+// Not sure if this web font script works
   WebFontConfig = {
     google: { families: [ 'Electrolize::latin' ] }
   };
@@ -11,4 +12,6 @@
     s.parentNode.insertBefore(wf, s);
   })();
 
-jQuery('body').append("<style>body{background: black;}</style>");
+j = jQuery.noConflict();
+
+j('body').css({background: '#efffcc'});
