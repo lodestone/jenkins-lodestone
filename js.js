@@ -13,5 +13,5 @@
     s.parentNode.insertBefore(wf, s);
   })(); </script>
 
-j = jQuery.noConflict();
 
+jQuery(jQuery('#top-panel table td a img').first()).attr('src', "http://lodestone.github.com/jenkins-lodestone/jenkins.png")
