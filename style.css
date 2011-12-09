@@ -4,8 +4,14 @@ body, * {
   margin: 0 auto !important;
 }
 
-/* body.yui-skin-sam { */
-/*   width: 980px !important; */
-/*   margin: 0 auto !important; */
-/* } */
+@charset "utf-8";
 
+body, table, form, input, td, th, p, textarea, select {
+  font-family: "メイリオ","Meiryo","ヒラギノ角ゴ Pro W3",
+  "Hiragino Kaku Gothic Pro","ＭＳ Ｐゴシック", "MS P Gothic","Osaka",
+  Verdana, Arial, Helvetica, sans-serif;
+}
+
+#main-table {
+  background-image: url(snowrabbit.png) !important;
+}
