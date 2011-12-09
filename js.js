@@ -1,5 +1,4 @@
 // Not sure if this web font script works
-<script type="text/javascript">
   WebFontConfig = {
     google: { families: [ 'Marmelad::latin' ] }
   };
@@ -11,7 +10,7 @@
     wf.async = 'true';
     var s = document.getElementsByTagName('script')[0];
     s.parentNode.insertBefore(wf, s);
-  })(); </script>
+  })();
 
 
 jQuery(jQuery('#top-panel table td a img').first()).attr('src', "http://lodestone.github.com/jenkins-lodestone/jenkins.png")
