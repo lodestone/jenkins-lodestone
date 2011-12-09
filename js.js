@@ -1,3 +1,4 @@
+alert("begin");
   WebFontConfig = {
     google: { families: [ 'Electrolize::latin' ] }
   };
@@ -11,4 +12,5 @@
     s.parentNode.insertBefore(wf, s);
   })();
 
+alert("here");
 
