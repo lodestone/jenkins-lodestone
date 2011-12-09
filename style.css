@@ -6,6 +6,11 @@ body, table, form, input, td, th, p, textarea, select {
   Verdana, Arial, Helvetica, sans-serif;
 }
 
+body {
+  width: 980px;
+  margin: 0 auto;
+}
+
 #main-table {
   background-image: url(snowrabbit.png) !important;
 }
