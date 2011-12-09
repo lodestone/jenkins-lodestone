@@ -7,7 +7,6 @@ body, table, form, input, td, th, p, textarea, select {
 body {
   width: 980px;
   margin: 0 auto;
-  margin-top: 100px;
 }
 
 #main-table {
