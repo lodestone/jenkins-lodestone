@@ -1,4 +1,3 @@
-alert("begin");
   WebFontConfig = {
     google: { families: [ 'Electrolize::latin' ] }
   };
@@ -12,5 +11,4 @@ alert("begin");
     s.parentNode.insertBefore(wf, s);
   })();
 
-alert("here");
-
+jQuery('body').append("<style>body{background: black;}</style>");
