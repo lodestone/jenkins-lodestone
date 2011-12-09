@@ -1,9 +1,3 @@
-body, * { 
-  font-family: 'Electrolize', sans-serif;
-  width: 980px !important;
-  margin: 0 auto !important;
-}
-
 @charset "utf-8";
 
 body, table, form, input, td, th, p, textarea, select {
