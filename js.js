@@ -1,7 +1,7 @@
 // Not sure if this web font script works
 <script type="text/javascript">
   WebFontConfig = {
-    google: { families: [ 'Baumans::latin' ] }
+    google: { families: [ 'Marmelad::latin' ] }
   };
   (function() {
     var wf = document.createElement('script');
@@ -15,4 +15,3 @@
 
 j = jQuery.noConflict();
 
-j('body').css({background: '#efffcc'});
