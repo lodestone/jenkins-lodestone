@@ -11,6 +11,7 @@ body {
 
 #main-table {
   /* background-image: url(snowrabbit.png) !important; */
+  border-top: 70px solid white;
 }
 
 #top-panel {
