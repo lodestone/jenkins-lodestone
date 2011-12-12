@@ -60,11 +60,10 @@ body {
 
 #main-table {
   background-color: #bbb;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#bbb), to(#fefefe)); 
-  background-image: -webkit-linear-gradient(top, #bbb, #fefefe); 
-  background-image:    -moz-linear-gradient(top, #bbb, #fefefe); 
-  background-image:     -ms-linear-gradient(top, #bbb, #fefefe); 
-  background-image:      -o-linear-gradient(top, #bbb, #fefefe); 
-  background-image:         linear-gradient(top, #bbb, #fefefe);
-
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#bbb), to(#fefefe)) !important; 
+  background-image: -webkit-linear-gradient(top, #bbb, #fefefe) !important; 
+  background-image:    -moz-linear-gradient(top, #bbb, #fefefe) !important; 
+  background-image:     -ms-linear-gradient(top, #bbb, #fefefe) !important; 
+  background-image:      -o-linear-gradient(top, #bbb, #fefefe) !important; 
+  background-image:         linear-gradient(top, #bbb, #fefefe) !important;
 }
