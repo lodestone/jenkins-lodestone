@@ -73,6 +73,6 @@ input, textarea {
   width: 95%;
 }
 
-input[type="radio"] {
+input[type="radio"], input[type="checkbox"] {
   width: auto;
 }
