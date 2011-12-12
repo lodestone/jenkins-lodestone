@@ -58,7 +58,7 @@ body {
 }
 
 
-body.yui-skin-sam {
+#main-table {
   background-color: #bbb;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#bbb), to(#fefefe)); 
   background-image: -webkit-linear-gradient(top, #bbb, #fefefe); 
