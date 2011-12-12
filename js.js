@@ -13,4 +13,4 @@
   })();
 
 
-jQuery(jQuery('#top-panel table td a img').first()).attr('src', "http://lodestone.github.com/jenkins-lodestone/jenkins.png")
+jQuery('img[alt="title"]').attr('src', "http://lodestone.github.com/jenkins-lodestone/jenkins.png")
