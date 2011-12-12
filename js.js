@@ -13,5 +13,7 @@
   })();
 
 
-jQuery('img[alt="title"]').attr('src', "http://lodestone.github.com/jenkins-lodestone/jenkins.png");
-console.log("Loaded js.js");
+jQuery(function() {
+  jQuery('img[alt="title"]').attr('src', "http://lodestone.github.com/jenkins-lodestone/jenkins.png");
+  console.log("Loaded js.js");
+});
