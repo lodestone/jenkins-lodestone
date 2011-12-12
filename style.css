@@ -73,3 +73,6 @@ input, textarea {
   width: 95%;
 }
 
+input[type="radio"] {
+  width: auto;
+}
