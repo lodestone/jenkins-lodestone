@@ -56,3 +56,15 @@ body {
 .dashboard .active {
   padding: 0 20px;
 }
+
+
+body.yui-skin-sam {
+  background-color: #bbb;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#bbb), to(#fefefe)); 
+  background-image: -webkit-linear-gradient(top, #bbb, #fefefe); 
+  background-image:    -moz-linear-gradient(top, #bbb, #fefefe); 
+  background-image:     -ms-linear-gradient(top, #bbb, #fefefe); 
+  background-image:      -o-linear-gradient(top, #bbb, #fefefe); 
+  background-image:         linear-gradient(top, #bbb, #fefefe);
+
+}
