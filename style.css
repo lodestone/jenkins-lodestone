@@ -66,3 +66,9 @@ body {
   /* background-image:      -o-linear-gradient(top, #bbb, #fefefe) !important;  */
   /* background-image:         linear-gradient(top, #bbb, #fefefe) !important; */
 }
+
+input, textarea {
+  padding: 3px;
+  margin: 5px;
+}
+
