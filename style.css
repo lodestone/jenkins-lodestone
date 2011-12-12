@@ -23,7 +23,7 @@ body {
   background-image:      -o-linear-gradient(top, #949494, #fefefe); 
   background-image:         linear-gradient(top, #949494, #fefefe);
   width: 980px;
-  border-bottom: 3px solid #343434;
+  /* border-bottom: 3px solid #343434; */
 }
 
 #top-panel a {
