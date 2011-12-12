@@ -15,13 +15,13 @@ body {
 }
 
 #top-panel {
-  background-color: #949494;
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#949494), to(#fefefe)); 
-  background-image: -webkit-linear-gradient(top, #949494, #fefefe); 
-  background-image:    -moz-linear-gradient(top, #949494, #fefefe); 
-  background-image:     -ms-linear-gradient(top, #949494, #fefefe); 
-  background-image:      -o-linear-gradient(top, #949494, #fefefe); 
-  background-image:         linear-gradient(top, #949494, #fefefe);
+  background-color: #bbb;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#bbb), to(#fefefe)); 
+  background-image: -webkit-linear-gradient(top, #bbb, #fefefe); 
+  background-image:    -moz-linear-gradient(top, #bbb, #fefefe); 
+  background-image:     -ms-linear-gradient(top, #bbb, #fefefe); 
+  background-image:      -o-linear-gradient(top, #bbb, #fefefe); 
+  background-image:         linear-gradient(top, #bbb, #fefefe);
   width: 980px;
   /* border-bottom: 3px solid #343434; */
 }
