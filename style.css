@@ -21,13 +21,15 @@ body {
 
 #top-nav {
 
-  /* background-color: #444444; */
-  /* background-image: -webkit-gradient(linear, left top, left bottom, from(#444444), to(#999999));  */
-  /* background-image: -webkit-linear-gradient(top, #444444, #999999);  */
-  /* background-image:    -moz-linear-gradient(top, #444444, #999999);  */
-  /* background-image:     -ms-linear-gradient(top, #444444, #999999);  */
-  /* background-image:      -o-linear-gradient(top, #444444, #999999);  */
-  /* background-image:         linear-gradient(top, #444444, #999999); */
+
+  background-color: #949494;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(#949494), to(#fefefe)); 
+  background-image: -webkit-linear-gradient(top, #949494, #fefefe); 
+  background-image:    -moz-linear-gradient(top, #949494, #fefefe); 
+  background-image:     -ms-linear-gradient(top, #949494, #fefefe); 
+  background-image:      -o-linear-gradient(top, #949494, #fefefe); 
+  background-image:         linear-gradient(top, #949494, #fefefe);
+
 
   border-bottom: 3px solid #343434;
 }
@@ -35,6 +37,7 @@ body {
 #header {
   width: 980px;
   position: fixed;
+  background: white;
   /* background-color: #444444; */
   /* background-image: -webkit-gradient(linear, left top, left bottom, from(#444444), to(#999999));  */
   /* background-image: -webkit-linear-gradient(top, #444444, #999999);  */
