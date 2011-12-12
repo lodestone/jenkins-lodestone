@@ -15,18 +15,17 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="jenkins.svg">
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient3757">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         style="stop-color:#dabe59;stop-opacity:1;"
          offset="0"
          id="stop3759" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         style="stop-color:#e9cf74;stop-opacity:0.23076923;"
          offset="1"
          id="stop3761" />
     </linearGradient>
@@ -49,7 +48,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="485.21849"
+     inkscape:cx="358.73298"
      inkscape:cy="520"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -77,19 +76,29 @@
      id="layer1">
     <text
        xml:space="preserve"
-       style="font-size:120.50704955999999868px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3763);fill-opacity:1;stroke:#000000;font-family:Futura;-inkscape-font-specification:Futura Medium;stroke-opacity:0.54589373;stroke-width:4.99999996000000024;stroke-miterlimit:4;stroke-dasharray:none"
+       style="font-size:120.50704856000000120px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:url(#linearGradient3763);fill-opacity:1;stroke:#aa8563;font-family:Charcoal CY;-inkscape-font-specification:Charcoal CY Italic;stroke-opacity:0.39130434;stroke-width:4.99999996000000024;stroke-miterlimit:4;stroke-dasharray:none"
        x="116.82265"
        y="501.77209"
        id="text2985"
        sodipodi:linespacing="125%"
        transform="scale(0.98890265,1.0112219)"
        inkscape:export-filename="/Users/matt/code/jenkins-lodestone/jenkins.png"
-       inkscape:export-xdpi="28.14793"
-       inkscape:export-ydpi="28.14793"><tspan
+       inkscape:export-xdpi="20.207544"
+       inkscape:export-ydpi="20.207544"><tspan
          sodipodi:role="line"
          id="tspan2987"
          x="116.82265"
          y="501.77209"
-         style="font-size:120.50704955999999868px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient3763);fill-opacity:1;font-family:Futura;-inkscape-font-specification:Futura Medium;stroke:#000000;stroke-opacity:0.54589373;stroke-width:4.99999996000000024;stroke-miterlimit:4;stroke-dasharray:none">JENKINS</tspan></text>
+         style="font-size:120.50704856000000120px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr;text-anchor:start;fill:url(#linearGradient3763);fill-opacity:1;font-family:Charcoal CY;-inkscape-font-specification:Charcoal CY Italic;stroke:#aa8563;stroke-opacity:0.39130434;stroke-width:4.99999996000000024;stroke-miterlimit:4;stroke-dasharray:none">JENKINS</tspan></text>
+    <rect
+       style="stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-opacity:0.54589370999999998;stroke-dasharray:none;fill:none"
+       id="rect2988"
+       width="565.71429"
+       height="151.42857"
+       x="77.14286"
+       y="389.50504"
+       inkscape:export-filename="/Users/matt/code/jenkins-lodestone/jenkins.png"
+       inkscape:export-xdpi="20.207544"
+       inkscape:export-ydpi="20.207544" />
   </g>
 </svg>
