@@ -15,10 +15,12 @@ body {
 }
 
 #top-panel {
-  /* background: white !important; */
+  background: transparent !important;
+  width: 980px;
 }
 
 #header {
+  width: 980px;
   border-bottom: 3px solid #343434;
   position: fixed;
   background-color: #444444;
